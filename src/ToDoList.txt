@@ -1,0 +1,14 @@
+1 - fix current issues (add needed methods)
+2 - add all pieces (bishop, rook ...)
+3 - add AI for ComputerPlayer (???)
+4 - rework current movement system to use digits + letters
+5 - allow select and unselect pieces (also rework movement system)
+6 - change players from list to objects
+7 - change null fields to empty board place
+8 - work with game statuses
+9 - forbid wrong castling (over beaten places, after moves etc.)
+10 - allow paws to beat when other used long walk
+11 - must defend king while under check
+12 - allow surrender
+13 - rework killing system
+14 - tbc.
