@@ -11,4 +11,5 @@
 11 - must defend king while under check
 12 - allow surrender
 13 - rework killing system
-14 - tbc.
+14 - add grafics realisation
+15 - tbc.
